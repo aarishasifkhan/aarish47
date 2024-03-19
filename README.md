@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence as well as Programming**
 
-- I have created numerous Projects on [Kaggle, Link is given too!](https://www.kaggle.com/aarishasifkhan)
+- I have created numerous Projects on [Kaggle:](https://www.kaggle.com/aarishasifkhan)
 
 - 👨‍💻 All of my projects are available at Github: [https://github.com/aarish47](https://github.com/aarish47)
 
