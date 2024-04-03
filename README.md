@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aarish Asif Khan</h1>
-<h3 align="center">A 13-year-old from Pakistan with a passion for machine learning and deep learning!</h3>
+<h3 align="center">From Pakistan with a passion for machine learning and deep learning!</h3>
 
 <p align="left"> <a href="https://twitter.com/aarish47" target="blank"><img src="https://img.shields.io/twitter/follow/aarish47?logo=twitter&style=for-the-badge" alt="aarish47" /></a> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence as well as Programming**
 
-- 👋 I have created numerous Projects on [Kaggle:](https://www.kaggle.com/aarishasifkhan)
+- 👋 I have created numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan)
 
-- 👨‍💻 All of my projects are available at Github: [https://github.com/aarish47](https://github.com/aarish47)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/aarish47)
 
-- 💬 Ask me about **Python, SQL or HTML**
+- 💬 Ask me about **Python, SQL, Java or HTML**
 
 - 📫 How to reach me **aarishk1429@gmail.com**
 
