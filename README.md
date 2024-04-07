@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aarish Asif Khan</h1>
-<h3 align="center">From Pakistan with a passion for machine learning and deep learning!</h3>
+<h3 align="center">An indiviual from Pakistan with a passion for Machine learning and Artificial Intelligence!</h3>
 
 <h1>About Myself:</h1>
 
