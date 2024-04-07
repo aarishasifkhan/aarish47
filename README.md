@@ -5,19 +5,17 @@
 
 <h1>About Myself:</h1>
 
-- 🔭 I’m currently working on **Machine and Deep Learning**
+- 🔭 Currently working on **Improving my Resume and Portfolio**
 
-- 🌱 I’m currently learning **Artificial Intelligence as well as Programming**
+- 🌱 Currently learning **Artificial Intelligence and Software engineering**
 
-- 👋 I have created numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan)
+- 👋 Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan) and [Github](https://github.com/aarish47)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/aarish47)
+- 💬 Ask me any question about: **Python, SQL, Java or HTML**
 
-- 💬 Ask me about **Python, SQL, Java or HTML**
+- 📫 Contact me at: **aarishk1429@gmail.com**
 
-- 📫 How to reach me **aarishk1429@gmail.com**
-
-- ⚡ Fun fact **I am Super cool and Awesome!** 
+- ⚡ Fun fact: **I am Super cool and Awesome!** 
 
 <h1 align="left">Languages and Tools:</h1>
 
