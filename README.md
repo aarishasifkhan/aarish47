@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aarish Asif Khan</h1>
 <h3 align="center">From Pakistan with a passion for machine learning and deep learning!</h3>
 
-<p align="left"> <a href="https://twitter.com/aarish47" target="blank"><img src="https://img.shields.io/twitter/follow/aarish47?logo=twitter&style=for-the-badge" alt="aarish47" /></a> </p>
-
 <h1>About Myself:</h1>
 
 - 🔭 Currently working on **Improving my Resume and Portfolio**
