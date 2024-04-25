@@ -9,7 +9,7 @@
 
 - 👋 Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan) and [Github](https://github.com/aarish47)
 
-- 💬 Ask me any question about: **Python, SQL, Java or HTML**
+- 💬 Ask me any question about: **Python, MySQL, CSS or HTML**
 
 - 📫 Contact me at: **aarishk1429@gmail.com**
 
