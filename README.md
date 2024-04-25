@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **Various tasks of Data Science**
 
-- 🌱 Currently learning **Artificial Intelligence and Software engineering**
+- 🌱 I've picked up skills in **Artificial Intelligence, software engineering, and learned new programming languages like React, JavaScript, and R.**
 
 - 👋 Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan) and [Github](https://github.com/aarish47)
 
