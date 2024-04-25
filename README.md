@@ -3,7 +3,7 @@
 
 <h1>About Myself:</h1>
 
-- 🔭 Currently working on **Improving my Resume and Portfolio**
+- 🔭 Currently working on **Various tasks of Data Science**
 
 - 🌱 Currently learning **Artificial Intelligence and Software engineering**
 
