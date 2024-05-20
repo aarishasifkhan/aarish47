@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Aarish Asif Khan</h1>
-<h3 align="center">An indiviual from Pakistan with a passion for Machine learning and Artificial Intelligence!</h3>
+<h1 align="center">Hello 👋, I'm Aarish Khan</h1>
+<h3 align="center">An indiviual from Pakistan with a passion for Artificial Intelligence!</h3>
 
 <h1>About Myself:</h1>
 
@@ -7,13 +7,11 @@
 
 - 🌱 I've picked up skills in **Artificial Intelligence, software engineering, and learned new programming languages like React, JavaScript, and R.**
 
-- 👋 Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan) and [Github](https://github.com/aarish47)
+- 👋 Completed Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan)
 
-- 💬 Ask me any question about: **Python, MySQL, CSS or HTML**
+- 💬 Ask me any question about: **Python, MySQL, CSS, HTML or JavaScript**
 
 - 📫 Contact me at: **aarishk1429@gmail.com**
-
-- ⚡ Fun fact: **I am Super cool and Awesome!** 
 
 <h1 align="left">Languages and Tools:</h1>
 
