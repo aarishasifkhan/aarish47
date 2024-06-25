@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Aarish Khan</h1>
-<h3 align="center">An indiviual from Pakistan with a passion for Artificial Intelligence!</h3>
+<h1 align="center">Hey there 👋, I'm Aarish Khan</h1>
+<h3 align="center">An indiviual from Pakistan with a passion for Data Science & Full-Stack Development</h3>
 
 <h1>About Myself:</h1>
 
@@ -9,9 +9,9 @@
 
 - 👋 Completed Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan)
 
-- 💬 Ask me any question about: **Python, MySQL, CSS, HTML or JavaScript**
+- 💬 Ask me any question about: **Python, MySql, HTML, CSS, JavaScript or React.js**
 
-- 📫 Contact me at: **aarishk1429@gmail.com**
+- 📫 Contact me at: **aarishk1429@gmail.com** or **asif_ali190@yahoo.com**
 
 <h1 align="left">Languages and Tools:</h1>
 
