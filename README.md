@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Aarish Khan</h1>
+<h1 align="center">Hey there 👋, I'm Aarish Asif Khan</h1>
 <h3 align="center">An indiviual from Pakistan with a passion for Data Science & Full-Stack Development</h3>
 
 <h1>About Myself:</h1>
