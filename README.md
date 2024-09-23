@@ -1,17 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Aarish Asif Khan</h1>
-<h3 align="center">An indiviual from Pakistan with a passion for Data Science & Full-Stack Development</h3>
+<h3 align="center">An indiviual from Pakistan with a Passion for Full-Stack Development</h3>
 
 <h1>About Myself:</h1>
 
-- 🔭 Currently looking for **Jobs and Internship opportunities**
+- 🔭 Employed at **Backendz as an Intern**, My role is as a **Full-Stack Developer**
 
-- 🌱 I've picked up skills in **Web development, Software engineering and Generative AI**
+- 🌱 I've picked up skills in **Full-Stack Development and Software Engineering**, aswell as, **Django with Python & GUIs**
 
-- 👋 Completed Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan)
+- 👋 Completed Numerous Projects on [Kaggle](https://www.kaggle.com/aarishasifkhan) and Github
 
-- 💬 Ask me any question about: **Python, MySQL, HTML, CSS, JavaScript, React.js, Next.js, Ruby and Rust**
+- 💬 Ask me any question about: **MERN Stack Development & Software Engineering**
 
-- 📫 Feel free to contact me at: **aarishk1429@gmail.com**
+- 📫 Feel free to contact me at: **aarishk1429@gmail.com** aswell as my LinkedIn: **Aarish Asif Khan**
 
 <h1 align="left">Languages and Tools:</h1>
 
