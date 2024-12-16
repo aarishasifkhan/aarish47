@@ -27,7 +27,7 @@
 ---
 
 ### Get in Touch:
-Feel free to reach out for collaborations or discussions about software development, machine learning, or anything tech-related. I'm always up for a conversation!
+Feel free to reach out for collaborations or discussions about software development, machine learning, or anything tech-related. I'm always up for a conversation! Here is my Email address: aarishk1429@gmail.com
 
 ---
 
