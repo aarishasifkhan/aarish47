@@ -57,7 +57,6 @@
 - 📫 Email: [aarishk1429@gmail.com](mailto:aarishk1429@gmail.com)  
 - 💼 LinkedIn: [Aarish Asif Khan](https://www.linkedin.com/in/aarish-asif-khan)  
 - 🧠 Kaggle: [Aarish Khan](https://www.kaggle.com/aarishasifkhan)  
-- 💻 GitHub: [BlazeeVFX](https://github.com/BlazeeVFX)
 
 ---
 
@@ -72,7 +71,7 @@ Open to:
 ---
 
 ## ✨ Fun Fact:
-I started coding before I turned 13, and now I turn coffee ☕ into full-stack apps 💻 like magic.
+I started coding when I turned 10, and now I turn coffee ☕ into full-stack apps 💻 like magic.
 
 ---
 
